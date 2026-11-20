@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bernardomunayer.com/sitemap.xml
